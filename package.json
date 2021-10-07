@@ -1,0 +1,16 @@
+{
+    "name": "venox.io",
+    "version": "1.0.0",
+    "description": "Venox Website",
+    "main": "index.html",
+    "repository": "https://github.com/venox-digital-assets/venox.io.git",
+    "author": "Simon Dingle <me@simon.co.za>",
+    "license": "MIT",
+    "devDependencies": {
+      "http-server": "^0.12.3"
+    },
+    "scripts": {
+      "start": "http-server ./ -p 3000"
+    }
+  }
+  

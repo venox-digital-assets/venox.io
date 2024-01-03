@@ -79,6 +79,7 @@ label { display: block; margin-bottom: 5px; font-weight: bold; }
 .border-orange{border-style:solid;border-width:1px;border-color:#e8973d;}
 .border-purple{border-style:solid;border-width:1px;border-color:#627eea;}
 .border-bright-green{border-style:solid;border-width:1px;border-color:#b2dd46;}
+.border-black{border-style:solid;border-width:1px;border-color: #000000;}
 .border-pale-green{border-style:solid;border-width:1px;border-color:#DDF444;}
 .border-green{border-style:solid;border-width:1px;border-color:#DDF444;}
 .border-white{border-style:solid;border-width:1px;border-color:#fff;}
@@ -94,6 +95,7 @@ label { display: block; margin-bottom: 5px; font-weight: bold; }
 .bg-purple{background-color:#627eea;}
 .bg-bright-green{background-color:#b2dd46;}
 .bg-green{background-color:#28d5a4;}
+.bg-black{background-color: #000000;}
 .bg-pale-green{background-color:#DDF444;}
 .bg-white{background-color:#fff;}
 
